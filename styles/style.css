@@ -1316,7 +1316,7 @@ select:focus{
 
 
 /* Media query for screens up to 375px (your mobile width) */
-@media (max-width: 375px) {
+@media (max-width: 900px) {
   .sign-up-individual-container {
     display: none;
   }
